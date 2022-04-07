@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlinExtend</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
